@@ -26,8 +26,8 @@ He’s a *philosopher*, a *comedian*, and the only Whirlpool certified to perfor
 ## 💻 Installation
 
 ```bash
-git clone https://github.com/yourusername/pino-the-washing-machine.git
-cd pino-the-washing-machine
+git clone https://github.com/diodoLedd/PinoTheWashingMachine.git
+cd PinoTheWashingMachine
 npm install  # because even washing machines use Node.js now
 ```
 
