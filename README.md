@@ -1,7 +1,7 @@
 # 🌀 Pino the Washing Machine (Terminal Edition)
 
-**"So what? Pino the Washing Machine!"**  
-– Ancient Sardinian proverb
+> **"So what? Pino the Washing Machine!"**  
+~ Ancient Sardinian proverb
 
 ---
 
