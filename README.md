@@ -1,5 +1,3 @@
-![Pino](screenshots/pino.png)
-
 # 🌀 Pino the Washing Machine (Terminal Edition)
 
 > **"So what? Pino the Washing Machine!"**  
@@ -13,6 +11,8 @@
 
 **Pino the Washing Machine** (also known as *Pino la Lavatrice*) is not just an appliance.  
 He’s a *philosopher*, a *comedian*, and the only Pino certified to perform in a Bash shell.
+
+![Pino](screenshots/pino.png)
 
 ---
 
