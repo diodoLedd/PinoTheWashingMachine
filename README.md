@@ -1,3 +1,5 @@
+![Pino](screenshots/pino.png)
+
 # 🌀 Pino the Washing Machine (Terminal Edition)
 
 > **"So what? Pino the Washing Machine!"**  
