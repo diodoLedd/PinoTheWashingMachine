@@ -38,11 +38,11 @@ bash install.sh
 
 This script:
 
-* Installs `pino` in `~/.local/bin`.
+* Installs `pino` in `/usr/local/bin`.
 * Makes the script executable.
-* Adds `~/.local/bin` to your `$PATH` if necessary.
+* Adds `/usr/local/bin` to your `$PATH` if necessary.
 
-> Restart the terminal or run `source ~/.bashrc` or `source ~/.zshrc` after installation.
+> Restart the terminal
 
 ---
 
